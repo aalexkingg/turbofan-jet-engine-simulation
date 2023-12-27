@@ -9,3 +9,11 @@ Configuarble options and automatic calculations that should be considered:
 - Thrust
 - Nozzles
 - Noise
+- Altitude
+- Air density
+- Velocity
+- Temperature
+- Pressure
+- Combustion
+
+Each section should be able to seperate and the equations required for each section e.g. compressor and turbine equations should be shown.
